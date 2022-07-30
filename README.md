@@ -1,4 +1,7 @@
-# Getting Started with Create React App
+# Getting Started with Create React App - Task Tracker
+
+A Youtube Video: React JS Crash Course Guided by Traversy and Done by John Cañero
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
