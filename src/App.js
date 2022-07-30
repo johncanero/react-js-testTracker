@@ -23,8 +23,6 @@ function App() {
         day: 'Feb 5th at 2:30pm',
         reminder: false
     },
-
-
   ]);
 
   return (
